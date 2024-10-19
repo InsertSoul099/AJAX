@@ -1,0 +1,16 @@
+All foley sounds go together in the Foley folder until further notice.
+
+--------------------
+
+All edited sounds are to be normalized to -11dB!
+
+--------------------
+
+Each sound will have at least 1 Subject folder, but if you feel there are too many variations of a sound (i.e. 20 footstep sounds for 1 character) you can add a further Subject folder.
+
+Example:
+...Sound/BetaSFX/Atlas/Footsteps/SE_SE_Atlas_BasicFootstep_1
+
+--------------------
+
+For more information, read the Sound Document.
